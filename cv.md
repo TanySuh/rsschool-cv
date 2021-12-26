@@ -18,6 +18,6 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 * 2013-2017 MTS-Bank. Auditor.
 * 2018-2021 VOSTOCHNY BANK. Manager
 
-* Skills
+**Skills**
 - HTML
 - CSS 
