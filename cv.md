@@ -1,7 +1,7 @@
 # Tatiana Sukhovaya 
 
 ## Contacts
-* Location: Moscau, Russia
+* Location: Moscow, Russia
 * Phone: +7 901-900-0740
 * Email: tanyand@mail.ru
 * GitHub: TanySuh
@@ -18,4 +18,6 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 * 2013-2017 MTS-Bank. Auditor.
 * 2018-2021 VOSTOCHNY BANK. Manager
 
-
+* Skills
+- HTML
+- CSS 
